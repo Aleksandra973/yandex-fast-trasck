@@ -1,0 +1,22 @@
+{
+  "name": "yandex-fast-trasck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "taskA.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksandra973/yandex-fast-trasck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksandra973/yandex-fast-trasck/issues"
+  },
+  "homepage": "https://github.com/Aleksandra973/yandex-fast-trasck#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
